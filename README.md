@@ -1,7 +1,7 @@
 # Deep Learning Framework for Crime Prediction in Video Footages
 
 ## Overview
-A deep learning framework for identifying objects, analyzing images, and understanding crowd behaviors in video footage to predict seven different types of crimes. The framework leverages a ConvLSTM technique to process and analyze video data effectively.
+A deep learning framework for identifying objects, analyzing images, and understanding crowd behaviors in video footage to predict seven different types of crimes. The framework leverages a ConvLSTM approach to process and analyze video data effectively.
 
 ## Setup Instructions
 
